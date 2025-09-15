@@ -13,6 +13,6 @@ spec:
             pathType: Prefix
             backend:
               service:
-                name: react-ssr-service
+                name: react-app
                 port:
                   number: 3000
