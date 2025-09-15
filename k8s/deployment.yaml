@@ -17,4 +17,4 @@ spec:
         - name: react-app
           image: ghcr.io/user-komeda/k8s-react-router-example-frontend:latest
           ports:
-            - containerPort: 5050
+            - containerPort: 3000
