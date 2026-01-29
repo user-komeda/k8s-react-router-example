@@ -11,7 +11,7 @@ spec:
   template:
     metadata:
       labels:
-        app: react-app
+        app: react-appaa
     spec:
       containers:
         - name: react-app
